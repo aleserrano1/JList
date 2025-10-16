@@ -38,6 +38,10 @@ Whether it’s reminding you to grab groceries when you’re near the store or t
 4. **Enable location permissions**
    Allow the app to access your location to test geofenced reminders.
 
+---
 
+## Author
+
+**Josue Serrano Rodriguez**
 
 
