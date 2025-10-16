@@ -24,24 +24,11 @@ Whether it’s reminding you to grab groceries when you’re near the store or t
 
 ---
 
-## Project Structure  
-JList/
-├── JListApp.swift # App entry point
-├── ContentView.swift # Root SwiftUI view
-├── Models/ # Task and location data models
-├── Views/ # User interface components
-├── ViewModels/ # Business logic & state management
-├── Services/ # Location, notification, and data services
-├── Assets.xcassets/ # App icons and colors
-└── Preview Content/ # SwiftUI preview data
-
----
-
 ## Getting Started  
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/JList.git
+   git clone https://github.com/aleserrano1/JList.git
    cd JList
 2. **Open in XCode**
    open JList.xcodeproj
@@ -50,6 +37,7 @@ JList/
    Press ⌘ + R to build and run.
 4. **Enable location permissions**
    Allow the app to access your location to test geofenced reminders.
+
 
 
 
